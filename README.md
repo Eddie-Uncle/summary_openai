@@ -11,7 +11,7 @@ Instructions how to use:
 2 - Create your API key
 
 3 - Create an .env file and add your key
-    e.g. "OPENAI_API_KEY="{your_api_key>}"
+    e.g. "OPENAI_API_KEY="{your_api_key}"
 
 4 - create a .txt file article.txt and add any text you like
 
