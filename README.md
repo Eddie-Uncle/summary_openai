@@ -1,2 +1,2 @@
-# summary_openai
-Using openai Api, we can summarize large texts
+# summary_resume.py
+Open AI API summarize Large texts
